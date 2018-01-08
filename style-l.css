@@ -221,7 +221,7 @@ nav li a:hover {
 
 /* */
 
-.post+.post+.post {
+.post+.post+.post+.post {
     margin-right: 0;
 }
 
